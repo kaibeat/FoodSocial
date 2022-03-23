@@ -81,3 +81,4 @@
 文档是对项目开发过程中遇到的一些问题的详细记录，主要是为了帮助没有基础的小伙伴快速理解这个项目。
 
 1. [需求分析与数据库设计](https://github.com/zxlrise/FoodSocial/wiki/1.%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1) 
+# FoodSocial
